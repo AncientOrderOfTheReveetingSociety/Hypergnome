@@ -1,0 +1,12 @@
+F:\Connor\Hypergnome\HypergnomeWanderer\HypergnomeWanderer\bin\Debug\HypergnomeWanderer.exe.config
+F:\Connor\Hypergnome\HypergnomeWanderer\HypergnomeWanderer\bin\Debug\HypergnomeWanderer.exe
+F:\Connor\Hypergnome\HypergnomeWanderer\HypergnomeWanderer\bin\Debug\HypergnomeWanderer.pdb
+F:\Connor\Hypergnome\HypergnomeWanderer\HypergnomeWanderer\obj\Debug\HypergnomeWanderer.csproj.AssemblyReference.cache
+F:\Connor\Hypergnome\HypergnomeWanderer\HypergnomeWanderer\obj\Debug\HypergnomeWanderer.csproj.SuggestedBindingRedirects.cache
+F:\Connor\Hypergnome\HypergnomeWanderer\HypergnomeWanderer\obj\Debug\HypergnomeWanderer.Properties.Resources.resources
+F:\Connor\Hypergnome\HypergnomeWanderer\HypergnomeWanderer\obj\Debug\HypergnomeWanderer.csproj.GenerateResource.cache
+F:\Connor\Hypergnome\HypergnomeWanderer\HypergnomeWanderer\obj\Debug\HypergnomeWanderer.csproj.CoreCompileInputs.cache
+F:\Connor\Hypergnome\HypergnomeWanderer\HypergnomeWanderer\obj\Debug\HypergnomeWanderer.exe
+F:\Connor\Hypergnome\HypergnomeWanderer\HypergnomeWanderer\obj\Debug\HypergnomeWanderer.pdb
+F:\Connor\Hypergnome\HypergnomeWanderer\HypergnomeWanderer\obj\Debug\HypergnomeWanderer.Krandlebob.resources
+F:\Connor\Hypergnome\HypergnomeWanderer\HypergnomeWanderer\obj\Debug\HypergnomeWanderer.Rock.resources
